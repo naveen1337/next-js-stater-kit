@@ -1,6 +1,6 @@
 # Next js starter kit
 
-## Tasks
+# Basic Components
 
 ## Navbar
 
@@ -55,6 +55,8 @@
 
 ---
 
+# Feature
+
 ## Blogs / news page
 
 - [ ] List of blogs
@@ -68,4 +70,65 @@
 - [ ] Embed graph support
 - [ ] Custom colors and fonts and sizes
 
+## Popups and Notification
+- [ ] Popup modals
+- [ ] Alert Notification
 
+## Data table
+
+- [ ] tanstack table
+- [ ] Pagination 
+- [ ] search and filters
+- [ ] tags and custom cells
+- [ ] Row selection
+- [ ] Column hide
+- [ ] Sorting 
+- [ ] Row expending
+- [ ] Column pinning
+- [ ] Row pinning
+- [ ] Header groups
+
+## Dashboard
+
+- [ ] Basic Dashboard with stats 
+
+## Maps
+
+- [ ] Google map integration
+- [ ] Open street map 
+- [ ] Common actions zoom levels, navigate to,
+- [ ] Markers and legends
+- [ ] Clusters
+- [ ] GeoJSON
+- [ ] Heatmaps with legends
+
+## Navigation
+
+- [ ] Quick navigation to page with search and go like (Algolia site search)
+
+
+## Communication / Chats
+
+- [ ] Popup chat customer support style
+- [ ] Incident resolution style
+
+## Photo gallary
+
+- [ ] Photo gallary with search, filter, grouping
+
+## Ecommerce 
+
+- [ ] Products lists
+- [ ] Product page
+- [ ] Cart feature
+- [ ] Payment feature
+- [ ] Order info and tracking feature
+- [ ] Promotion offers feature
+
+## Multi language support
+
+- [ ] English, Tamil Support
+
+## PWA Support
+
+- [ ] Progressive web app support
